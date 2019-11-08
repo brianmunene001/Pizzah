@@ -23,3 +23,6 @@ body{
     cursor: pointer;
     color: #0088cc;
   }
+  .cartItem:hover {
+    text-decoration: dashed;
+  }
