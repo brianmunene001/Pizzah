@@ -14,15 +14,15 @@ This is a Webpage designed to collect user input details for ordering pizzas. Th
   There are no bugs.
 
   ## Installation process
-  >Clone this project
-  >Ensure that jquery version 3.4.1 is included or any other new version that will come out, as well as bootstrap.css.
-  >Open the page in your preferred web browser
+  - Clone this project
+  - Ensure that jquery version 3.4.1 is included or any other new version that will come out, as well as bootstrap.css.
+  - Open the page in your preferred web browser
 
   # Technologies used
-  >Html
-  >css
-  >Javascript
-  >jQuery-3.4.1
-  >Bootstrap
+  - Html
+  - css
+  - Javascript
+  - jQuery-3.4.1
+  - Bootstrap
 # Licence
 Copyright (c) [Brian Munene] MIT
