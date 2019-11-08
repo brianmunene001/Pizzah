@@ -26,3 +26,6 @@ This is a Webpage designed to collect user input details for ordering pizzas. Th
   - Bootstrap
 # Licence
 Copyright (c) [Brian Munene] MIT
+
+# Date when the project was made
+-  Friday,November,2019
