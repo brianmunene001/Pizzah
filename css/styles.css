@@ -29,3 +29,7 @@ body{
   .cartWell, .choiceWell, .deliveryWell, .pickupWell, #show-pizza, #pickupEnd, #deliveryEnd {
     display: none;
   }
+  button#pickup, button#delivery {
+    margin-left: 33%;
+    margin-right: 33%;
+  }
