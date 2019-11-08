@@ -33,3 +33,7 @@ body{
     margin-left: 33%;
     margin-right: 33%;
   }
+  #deliveryCost {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
