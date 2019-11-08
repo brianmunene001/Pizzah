@@ -26,3 +26,6 @@ body{
   .cartItem:hover {
     text-decoration: dashed;
   }
+  .cartWell, .choiceWell, .deliveryWell, .pickupWell, #show-pizza, #pickupEnd, #deliveryEnd {
+    display: none;
+  }
