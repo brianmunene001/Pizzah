@@ -12,3 +12,7 @@ body{
   .well, h3, h4 {
     font-family: 'Raleway', sans-serif;
   }
+  .well {
+    margin-left: 30%;
+    margin-right: 30%;
+  }
