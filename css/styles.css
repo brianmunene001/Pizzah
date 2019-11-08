@@ -9,3 +9,6 @@ body{
     background-size: cover;
     height: 270px;
   }
+  .well, h3, h4 {
+    font-family: 'Raleway', sans-serif;
+  }
