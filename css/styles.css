@@ -19,3 +19,7 @@ body{
   .qHeader {
     text-decoration: underline;
   }
+  .cartItem {
+    cursor: pointer;
+    color: #0088cc;
+  }
