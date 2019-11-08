@@ -1,5 +1,5 @@
 # Project Name
-Pizza Poject
+Pizza Project
 
 ## Project Author
 Brian Munene
