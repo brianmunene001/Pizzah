@@ -30,16 +30,23 @@ body{
     display: none;
   }
   button#pickup, button#delivery {
-    margin-left: 50%;
-    margin-right: 60%;
+    margin-left: 60%;
+    margin-right: 80%;
+    color: red;
   }
   #deliveryCost {
     margin-top: 10px;
     margin-bottom: 10px;
   }
-  hi{
+  h1{
       align-content: center;
   }
   title{
+    align-content: center;
+  }
+  .class-center{
+    color: red;
+  }
+  .form-group{
     align-content: center;
   }
