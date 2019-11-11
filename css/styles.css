@@ -30,8 +30,8 @@ body{
     display: none;
   }
   button#pickup, button#delivery {
-    margin-left: 33%;
-    margin-right: 33%;
+    margin-left: 50%;
+    margin-right: 60%;
   }
   #deliveryCost {
     margin-top: 10px;
